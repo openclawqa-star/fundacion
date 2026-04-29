@@ -1,0 +1,4 @@
+- Increase donations via mobile
+- Show real impact stories
+- Promote events
+- Sell products with purpose

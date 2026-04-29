@@ -1,0 +1,5 @@
+- Project catalog with progress tracking
+- Donation module
+- Events section
+- Podcast/media section
+- Online store
