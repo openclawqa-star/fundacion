@@ -9,6 +9,7 @@ Jira roadmap parent: `SCRUM-5`
 - [ ] Define MVP entities, projects, stories, events, products, metrics, donations
 - [ ] Decide authentication scope
 - [ ] Decide admin panel scope
+- [ ] Review `fundacion-web/spec/DECISIONS.md` and confirm or revise recommendations
 
 ## Frontend MVP
 - [ ] Finalize homepage CTA behavior
@@ -36,3 +37,4 @@ Jira roadmap parent: `SCRUM-5`
 
 ## Reference
 See `fundacion-web/spec/ROADMAP.md` for the full phased delivery plan.
+See `fundacion-web/spec/DECISIONS.md` for the current product decision checklist.
